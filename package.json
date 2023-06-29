@@ -4,12 +4,13 @@
   "description": "A forum for devs! :)",
   "main": "tailwind.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tailwindcss -i ./src/index.css -o ./dist/output.css --watch"
   },
   "author": "Wesley Souza (neopromic)",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2"
   }
 }
