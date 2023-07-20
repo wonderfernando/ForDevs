@@ -58,8 +58,7 @@ nav {
   
 }
 nav>div>.logo{
-  font-size: 2rem;
-  font-weight: 500;
+  @apply w-12 h-12;
 }
 nav>div>i {
   color: var(--md_theme_dark_secondary);
