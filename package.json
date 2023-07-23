@@ -6,6 +6,7 @@
   "scripts": {
     "start": "tailwindcss -i ./src/index.css -o ./dist/output.css --watch"
   },
+  "type": "module",
   "author": "Wesley Souza (neopromic)",
   "license": "ISC",
   "devDependencies": {
@@ -15,6 +16,7 @@
   },
   "dependencies": {
     "dotenv": "^16.3.1",
-    "firebase": "^9.23.0"
+    "firebase": "^9.23.0",
+    "flowbite": "^1.7.0"
   }
 }

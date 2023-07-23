@@ -43,10 +43,11 @@
 --md_theme_dark_onPrimary: #381E72;
 --md_theme_dark_primaryContainer: #4F378B;
 --md_theme_dark_primary: #D0BCFF;
-  
-  background-color: var(--md_theme_dark_background);
-  color: var(--md_theme_dark_onBackground);
+
   font-family: 'Inter', sans-serif;
+}
+body {
+  @apply bg-zinc-950;
 }
 nav {
   width: 100%;
@@ -57,10 +58,7 @@ nav {
   align-items: center;
   
 }
-nav>div>.logo{
-  font-size: 2rem;
-  font-weight: 500;
-}
+
 nav>div>i {
   color: var(--md_theme_dark_secondary);
 }
