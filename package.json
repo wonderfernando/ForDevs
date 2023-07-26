@@ -4,7 +4,7 @@
   "description": "A forum for devs! :)",
   "main": "./src/index.js",
   "scripts": {
-    "start": "tailwindcss -i ./src/index.css -o ./dist/output.css --watch"
+    "start": "tailwindcss -i ./src/index.css -o ./src/dist/output.css --watch"
   },
   "type": "module",
   "author": "Wesley Souza (neopromic)",
