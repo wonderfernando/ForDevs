@@ -46,9 +46,7 @@
 
   font-family: 'Inter', sans-serif;
 }
-body {
-  @apply bg-zinc-950 ;
-}
+
 nav {
   width: 100%;
   height: fit-content;
