@@ -51,19 +51,36 @@ body {
   background-color: var(--md_theme_dark_surface);
   color: var(--md_theme_dark_onSurface);
 }
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 nav {
-  width: 100%;
-  height: fit-content;
-  padding: 24px 16px;
+  width: 85vw;
+  height: 2rem;
+  justify-self: center;
+  padding: 0.8rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+  background-color: transparent;
+  border: 1px solid var(--md_theme_dark_outline);
+  border-radius: 0.8rem;
 }
-
+nav>div>img {
+  height: 4rem;
+  width: 4rem;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 nav>div>i {
   color: var(--md_theme_dark_secondary);
+  font-size: 1.6rem;
 }
 .root {
   padding: 0px 16px;
 }
+
