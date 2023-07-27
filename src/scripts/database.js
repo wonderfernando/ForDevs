@@ -4,14 +4,14 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: process.env.apiKey,
-  authDomain: "creattek-services.firebaseapp.com",
-  databaseURL: "https://creattek-services-default-rtdb.firebaseio.com",
-  projectId: "creattek-services",
-  storageBucket: "creattek-services.appspot.com",
-  messagingSenderId: "10606137426",
-  appId: "1:10606137426:web:17eb7e3ebe72c2fbbacf8b",
-  measurementId: "G-K9QRM2XED5"
+  apiKey: process.env.API_KEY,
+  authDomain: process.env.AUTH_DOMAIN,
+  databaseURL: process.env.DATABASE_URL,
+  projectId: process.env.PROJECT_ID,
+  storageBucket: process.env.STORAGE_BUCKET,
+  messagingSenderId: process.env.MENSSAGING_SENDER_ID,
+  appId: process.env.APP_ID,
+  measurementId: process.env.MEN_ID
 };
 
 
