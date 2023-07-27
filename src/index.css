@@ -47,6 +47,10 @@
   font-family: 'Inter', sans-serif;
 }
 
+body {
+  background-color: var(--md_theme_dark_surface);
+  color: var(--md_theme_dark_onSurface);
+}
 nav {
   width: 100%;
   height: fit-content;
