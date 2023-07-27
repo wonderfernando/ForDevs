@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;700;900&display=swap");
+
+:root {
+  --violet-50: #f5f3ff;
+  --violet-100: #ede9fe;
+  --violet-200: #ddd6fe;
+  --violet-300: #c4b5fd;
+  --violet-400: #a78bfa;
+  --violet-500: #8b5cf6;
+  --violet-600: #7c3aed;
+  --violet-700: #6d28d9;
+  --violet-800: #5b21b6;
+  --violet-900: #4c1d95;
+  --violet-950: #2e1065;
+  --md_theme_dark_surfaceTintColor: #d0bcff;
+  --md_theme_dark_onErrorContainer: #f2b8b5;
+  --md_theme_dark_onError: #601410;
+  --md_theme_dark_errorContainer: #8c1d18;
+  --md_theme_dark_onTertiaryContainer: #ffd8e4;
+  --md_theme_dark_onTertiary: #492532;
+  --md_theme_dark_tertiaryContainer: #633b48;
+  --md_theme_dark_tertiary: #efb8c8;
+  --md_theme_dark_shadow: #000000;
+  --md_theme_dark_error: #f2b8b5;
+  --md_theme_dark_outline: #938f99;
+  --md_theme_dark_onBackground: #e6e1e5;
+  --md_theme_dark_background: #1c1b1f;
+  --md_theme_dark_inverseOnSurface: #313033;
+  --md_theme_dark_inverseSurface: #e6e1e5;
+  --md_theme_dark_onSurfaceVariant: #cac4d0;
+  --md_theme_dark_onSurface: #e6e1e5;
+  --md_theme_dark_surfaceVariant: #49454f;
+  --md_theme_dark_surface: #1c1b1f;
+  --md_theme_dark_onSecondaryContainer: #e8def8;
+  --md_theme_dark_onSecondary: #332d41;
+  --md_theme_dark_secondaryContainer: #4a4458;
+  --md_theme_dark_secondary: #ccc2dc;
+  --md_theme_dark_inversePrimary: #6750a4;
+  --md_theme_dark_onPrimaryContainer: #eaddff;
+  --md_theme_dark_onPrimary: #381e72;
+  --md_theme_dark_primaryContainer: #4f378b;
+  --md_theme_dark_primary: #d0bcff;
+
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: var(--md_theme_dark_surface);
+  color: var(--md_theme_dark_onSurface);
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+.buttonPrimary {
+  background-color: var(--md_theme_dark_primary);
+  color: var(--md_theme_dark_onPrimary);
+  outline: none;
+  border: none;
+  padding: 1rem 1.6rem;
+  border-radius: 999rem;
+  font-weight: 600;
+  font-size: 16px;
+}
+.buttonSecondary {
+  background-color: var(--md_theme_dark_secondary);
+  color: var(--md_theme_dark_onSecondary);
+  outline: none;
+  border: none;
+  padding: 1rem 1.6rem;
+  border-radius: 999rem;
+  font-weight: 600;
+  font-size: 16px;
+}
+.buttonTertiary {
+  background-color: var(--md_theme_dark_tertiary);
+  color: var(--md_theme_dark_onTertiary);
+  outline: none;
+  border: none;
+  padding: 1rem 1.6rem;
+  border-radius: 999rem;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.buttonTertiary:hover {
+  background-color: var(--md_theme_dark_onTertiary);
+  color: var(--md_theme_dark_tertiary);
+  border: none;
+  padding: 1rem 1.6rem;
+  border-radius: 999rem;
+  font-weight: 600;
+  font-size: 16px;
+}

@@ -1,4 +1,4 @@
-import * as dotenv from 'dotenv';
+import dotenv from 'dotenv'
 dotenv.config()
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
