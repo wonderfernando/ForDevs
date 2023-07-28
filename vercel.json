@@ -1,0 +1,8 @@
+{
+    "redirects": [
+      {
+        "source": "/view-source",
+        "destination": "https://github.com/neopromic/ForDevs"
+      }
+    ]
+  }
