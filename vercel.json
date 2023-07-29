@@ -1,10 +1,10 @@
 {
   "public": 
    [
-      "/src/public/**",
-      "/src/assets/**",
-      "/src/api/**",
-      "/src/modules/**",
-      "/src/utils/**"
+      "/public/**",
+      "/assets/**",
+      "/api/**",
+      "/modules/**",
+      "/utils/**"
    ]
 }
