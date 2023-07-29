@@ -6,5 +6,7 @@
       "/api/**",
       "/modules/**",
       "/utils/**"
-   ]
+   ],
+    "trailingSlash": false
 }
+
