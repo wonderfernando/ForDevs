@@ -1,5 +1,5 @@
 {
   "public": true,
-    "trailingSlash": false
+  "trailingSlash": false,
+  "rewrites": [{ "source": "/login", "destination": "/public/pages/login.html" }]
 }
-
