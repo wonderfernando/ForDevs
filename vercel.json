@@ -1,12 +1,5 @@
 {
-  "public": 
-   [
-      "/public/**",
-      "/assets/**",
-      "/api/**",
-      "/modules/**",
-      "/utils/**"
-   ],
+  "public": true,
     "trailingSlash": false
 }
 
