@@ -1,8 +1,11 @@
 {
-    "redirects": [
+  "public": {
+    "include": ["public/**", "assets/**", "api/**", "modules/**", "utils/**"],
+    "rewrites": [
       {
         "source": "/view-source",
         "destination": "https://github.com/neopromic/ForDevs"
       }
     ]
   }
+}
