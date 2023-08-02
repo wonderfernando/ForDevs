@@ -25,7 +25,7 @@ ForDevs invites all programming enthusiasts, whether beginners or experienced co
 - Spread the word about ForDevs to help grow our user base.
 
 ### How to contribute
-Check out our contribution guide in the [CONTRIBUTING.md](https://github.com/neopromic/ForDevs/blob/main/CONTRIBUTING.md) file for detailed information on how to get involved. Feel free to open new issues, submit pull requests, or reach out to our team for assistance.
+Check out our contribution guide in the [CONTRIBUTING.md](src/docs/CINTRIBUTING_pt-BR.md) file for detailed information on how to get involved. Feel free to open new issues, submit pull requests, or reach out to our team for assistance.
 ## License 🚨
 This project is licensed under the MIT License. You are welcome to use, modify, and distribute this software according to the terms of the license.
 [MIT](https://github.com/neopromic/ForDevs/blob/main/LICENSE)
