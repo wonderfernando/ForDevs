@@ -2,13 +2,13 @@
   "name": "fordevs",
   "version": "1.0.1",
   "description": "A forum for devs! :)",
-  "main": "./src/index.js",
+  "main": "./src/public/index.js",
   "scripts": {
 
   },
   "type": "module",
   "author": "Wesley Souza (neopromic)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.4.14"
   },
