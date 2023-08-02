@@ -1,0 +1,18 @@
+:root {
+  --md_theme_dark_outline: #938f99;
+}
+body {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  padding: 1rem;
+  align-items: center;
+  justify-self: center;
+}
+.container {
+  border: 1.5px solid var(--md_theme_dark_outline);
+  width: 100%;
+  height: fit-content;
+  padding: 1rem;
+  border-radius: 1rem;
+}
