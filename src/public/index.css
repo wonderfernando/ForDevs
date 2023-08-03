@@ -45,12 +45,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 
+*:focus{
+  box-shadow: 0 0 0 2px var(--md_theme_dark_onPrimary);
+}
 body {
   background-color: var(--md_theme_dark_surface);
   color: var(--md_theme_dark_onSurface);
 }
+
 
 header {
   display: flex;
