@@ -1,37 +1,51 @@
-
 ![Logo](https://media.discordapp.net/attachments/1063146193229713431/1134855732005711914/Picsart_23-07-01_10-40-05-768.png)
 
+# Bem-vindo ao ForDevs - Fórum para Desenvolvedores Engajarem e Capacitarem-se! 🚀
 
-# 🚀 ForDevs - Developer Forum to Engage and Empower!
+O ForDevs é um fórum online criado para desenvolvedores apaixonados pela arte da programação! Aqui, você encontrará um espaço interativo onde a comunidade de desenvolvedores pode trocar conhecimentos, compartilhar experiências, fazer perguntas e colaborar em projetos emocionantes. Nosso objetivo é fornecer um ambiente acolhedor e inclusivo, onde tanto os iniciantes quanto os programadores experientes podem se conectar e crescer juntos.
 
-Welcome to ForDevs - an online forum created for passionate developers who love the art of coding! 🚀
+## Principais Recursos 👀
 
-ForDevs is an open-source project aiming to build an interactive space for the developer community to exchange knowledge, share experiences, ask questions, and collaborate on exciting projects. Our mission is to provide a welcoming, friendly, and inclusive environment where both beginners and seasoned programmers can connect and grow together.
-## Key Features 👀
+- Crie tópicos de discussão e compartilhe suas ideias.
+- Participe de conversas e contribua com suas perspectivas únicas.
+- Aprenda com desenvolvedores talentosos e experientes.
+- Explore as últimas tecnologias e tendências do setor.
+- Faça networking e construa conexões valiosas.
 
-- Create discussion threads and share your ideas.
-- Engage in conversations and contribute your unique perspectives.
-- Learn from talented and experienced developers.
-- Explore the latest technologies and industry trends.
-- Network and build valuable connections.
-## Contributing to ForDevs ✨
+## Como Contribuir ✨
 
-ForDevs invites all programming enthusiasts, whether beginners or experienced coders, to join us on this exciting journey. There are many ways you can contribute:
+Agradecemos o seu interesse em contribuir para o projeto ForDevs! Aqui estão algumas etapas para você começar:
 
-- Identify and fix reported bugs.
-- Implement new features and improvements.
-- Enhance documentation and provide helpful tutorials.
-- Test the project in different environments and provide feedback.
-- Spread the word about ForDevs to help grow our user base.
+1. **Fork do Repositório**: Faça um fork do repositório ForDevs clicando no botão "Fork" na parte superior direita da página.
 
-### How to contribute
-Check out our contribution guide in the [CONTRIBUTING.md](src/docs/CINTRIBUTING_pt-BR.md) file for detailed information on how to get involved. Feel free to open new issues, submit pull requests, or reach out to our team for assistance.
-## License 🚨
-This project is licensed under the MIT License. You are welcome to use, modify, and distribute this software according to the terms of the license.
+2. **Clone do Repositório**: Clone o repositório do seu fork para o seu ambiente local usando o comando `git clone`.
+
+3. **Instalação de Dependências**: Certifique-se de ter as dependências do projeto instaladas localmente. Execute `npm install` para instalar todas as dependências necessárias.
+
+4. **Crie uma Branch**: Crie uma nova branch para adicionar suas alterações usando o comando `git checkout -b nome-da-sua-branch`.
+
+5. **Faça as Alterações**: Agora você pode fazer as alterações no código do projeto.
+
+6. **Teste**: Antes de enviar suas alterações, certifique-se de que o projeto está funcionando corretamente e que você não adicionou nenhum erro novo.
+
+7. **Prettier e Standard**: O projeto utiliza o Prettier para formatação de código e o Standard para regras de estilo JavaScript. Certifique-se de configurar corretamente essas ferramentas em seu editor para manter a consistência no estilo do código.
+
+8. **Commits Significativos**: Faça commits significativos e explicativos para que outros contribuidores possam entender suas alterações.
+
+9. **Envie suas Alterações**: Envie suas alterações para o seu repositório remoto usando o comando `git push origin nome-da-sua-branch`.
+
+10. **Pull Request**: Após enviar suas alterações para o seu repositório remoto, você pode criar um Pull Request (PR) clicando no botão "New Pull Request" no repositório original. Certifique-se de fornecer uma descrição clara das suas alterações no PR (pull request).
+
+11. **Revisão do PR**: Os mantenedores do projeto irão revisar o seu PR e poderão solicitar alterações adicionais antes de aceitá-lo.
+
+12. **Parabéns!**: Após a revisão e aceitação do PR, suas alterações serão incorporadas ao projeto ForDevs. Parabéns pela sua contribuição!
+
+## Licença 🚨
+
+Este projeto está licenciado sob a Licença MIT. Você é bem-vindo para usar, modificar e distribuir este software de acordo com os termos da licença.
 [MIT](https://github.com/neopromic/ForDevs/blob/main/LICENSE)
 
+## Comunidade 💜
 
-## Community 💜
-
-Join our thriving community and be part of something incredible! Get in touch, contribute, and chat with us on our Discord server – we need YOU! 🌟
-[Join in our discord!](https://discord.gg/ukaBBQmzUP)
+Junte-se à nossa comunidade vibrante e faça parte de algo incrível! Entre em contato, contribua e converse conosco em nosso servidor Discord - precisamos de VOCÊ! 🌟
+[Participe do nosso Discord!](https://discord.gg/ukaBBQmzUP)
