@@ -5,7 +5,7 @@
 O ForDevs é um fórum online criado para desenvolvedores apaixonados pela arte da programação! Aqui, você encontrará um espaço interativo onde a comunidade de desenvolvedores pode trocar conhecimentos, compartilhar experiências, fazer perguntas e colaborar em projetos emocionantes. Nosso objetivo é fornecer um ambiente acolhedor e inclusivo, onde tanto os iniciantes quanto os programadores experientes podem se conectar e crescer juntos.
 ### Links rápidos 😉
 - [🇱🇷 • README in english](./README_en.md)
-- [Visitar o site](https://for-devs.vercel.app/)
+- [🚀 • Visitar o site](https://for-devs.vercel.app/)
 ## Principais Recursos 👀
 
 - Crie tópicos de discussão e compartilhe suas ideias.
